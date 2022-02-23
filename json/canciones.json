@@ -1,0 +1,25 @@
+{
+  "songs":[
+    {
+      "id": 0,
+      "nombre": "BAD!",
+      "artist": "Xxxtentacion",
+      "song": "mp3/bad_xxxtentacion.mp3",
+      "image": "img_albums/bad_xxxtentacion.jpg"
+    },
+    {
+      "id": 1,
+      "nombre": "Fluorescent Adolescent",
+      "artist": "Artic Monkeys",
+      "song": "mp3/fluorescentadolescent_articmonkeys.mp3",
+      "image": "img_albums/fluorescentadolescent_articmonkeys.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Obsession",
+      "artist": "Consul Trainin",
+      "song": "mp3/obsession_consultrainin.mp3",
+      "image": "img_albums/obsession_consultrainin.jpg"
+    }
+  ]
+}
